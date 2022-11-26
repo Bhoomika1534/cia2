@@ -1,0 +1,22 @@
+.select
+{
+    width: 200px;
+    margin-left: 530px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+.button
+{
+    margin-top: 50px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
